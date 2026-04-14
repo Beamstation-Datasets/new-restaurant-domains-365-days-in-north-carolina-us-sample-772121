@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e2c1c209-8cea-4eaf-a116-91dfbcbc1b04",
+  "id_short": 772121,
+  "published_at": "2026-04-14T07:16:58Z",
+  "repo_name": "new-restaurant-domains-365-days-in-north-carolina-us-sample-772121",
+  "sample_asset_name": "beamstation_772121_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/772121/beamstation_772121_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 71,
+  "sample_sha256": "a24c1601e481abcc62812e93a9c06e0edd1851651af7d06401c3c179b51d5633",
+  "sample_size_bytes": 266818,
+  "total_records": 710
+}
