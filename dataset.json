@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in North Carolina, US",
+  "export_job_id": "e2c1c209-8cea-4eaf-a116-91dfbcbc1b04",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 772121,
+  "location_name": "North Carolina",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-north-carolina-us-sample-772121",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/772121/beamstation_772121_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 71,
+  "sample_sha256": "a24c1601e481abcc62812e93a9c06e0edd1851651af7d06401c3c179b51d5633",
+  "sample_size_bytes": 266818,
+  "total_records": 710,
+  "updated_at": "2026-04-09T20:52:26.283670+00:00"
+}
